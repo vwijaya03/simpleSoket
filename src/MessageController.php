@@ -1,4 +1,4 @@
-<?php namespace simple\sokets;
+<?php namespace simple\soket;
 
 use App\Models\Message;
 use App\Http\Controllers\Controller;
