@@ -1,0 +1,19 @@
+{
+    "name": "vikowijaya/simple-soket",
+    "description": "Simple Soket",
+    "type": "git",
+    "authors": [
+        {
+            "name": "Viko Wijaya",
+            "email": "viko_wijaya@yahoo.co.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "simple\\soket\\": "vendor/simpleSoket/src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
